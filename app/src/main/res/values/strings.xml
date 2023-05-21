@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aston_intensiv_5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_1">1</string>
+    <string name="Ivan">Иван</string>
+    <string name="belyaev">Беляев</string>
+    <string name="phone1">89224750038</string>
+    <string name="_2">2</string>
+    <string name="Pavel">Павел</string>
+    <string name="ponomarchuk">Пономарчук</string>
+    <string name="phone2">87777777777</string>
+    <string name="_3">3</string>
+    <string name="alex">Алексей</string>
+    <string name="ujacov">Южаков</string>
+    <string name="phone3">88888888888</string>
+    <string name="_4">4</string>
+    <string name="nikita">Никита</string>
+    <string name="bondarev">Бондарев</string>
+    <string name="phone4">89999999999</string>
+    <string name="saveData">Сохранить изменения</string>
+    <string name="empty" />
+</resources>
